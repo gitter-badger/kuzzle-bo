@@ -5,6 +5,8 @@
 
 # Kuzzle BO
 
+[![Join the chat at https://gitter.im/kuzzleio/kuzzle-bo](https://badges.gitter.im/kuzzleio/kuzzle-bo.svg)](https://gitter.im/kuzzleio/kuzzle-bo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 (Works with Kuzzle version 0.7.x)
 
 This Kuzzle back office allow to manage your Kuzzle. You can manage in real-time your data, subscriptions and configuration with many boards for analytics.
